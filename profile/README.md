@@ -14,7 +14,7 @@ Source: `wg0-<acronym>-charter`
 ## Working group
 
 - Chairs:
-- Mailing list: `<list / link>`
+- Mailing list: fgtidawg0@lists.itu.int
 - Meetings: `<cadence / calendar link>`
 
 ## Contributing
