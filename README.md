@@ -18,7 +18,7 @@ Source: `wg0-<acronym>-charter`
 ## Working Group
 
 - **Chairs:** _To be completed_
-- **Mailing list:** _To be completed_
+- **Mailing list: fgtidawg0@lists.itu.int
 - **Meetings:** _To be completed_
 - **Scope:** Use Cases and Terminology
 - **Work items:** _To be completed by the WG0 Chairs_
