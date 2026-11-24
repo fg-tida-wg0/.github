@@ -1,4 +1,4 @@
-# FG-TIDA WG0: Use Cases and Terminology (UCT)
+# FG-TIDA WG0: Use Cases, Taxonomy and Terminology (UCT)
 
 WG0 maintains the shared terminology and the shared use-case register that every other FG-TIDA Working Group relies on.
 
