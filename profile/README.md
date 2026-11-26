@@ -14,7 +14,7 @@ Source: [`wg0-uct-charter`](https://github.com/fg-tida-wg0/wg0-uct-charter)
 | Context-Sensitive Terminology Report | Candidate definitions and the context each applies in, for terms that carry more than one legitimate meaning. | Not yet published | TBD |
 
 ## Working group
-- **Chairs:** Trisha Chakraborty
+- **Chairs/Co-chair:** Trisha Chakraborty, Bechtold,Lisa,CH-Vevey
 - **Mailing list:** fgtidawg0@lists.itu.int
 - **Meetings:** TBD
 
